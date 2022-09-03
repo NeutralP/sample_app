@@ -44,3 +44,10 @@ en:
     new:
       title: "Sign up"
       text: "This will be signup page for new users."
+      confirmation: "Confirmation"
+      create_acc: "Create my account"
+  shared:
+    error_messages:
+      error_msg:
+        one: "The form contains 1 error"
+        other: "The form contains %{count} errors"
