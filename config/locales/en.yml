@@ -12,6 +12,11 @@ en:
       home: "Home"
       help: "Help"
       log_in: "Log in"
+      users: "Users"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      logout: "Log out"
   static_pages:
     about:
       title: "About"
@@ -51,3 +56,8 @@ en:
       error_msg:
         one: "The form contains 1 error"
         other: "The form contains %{count} errors"
+  sessions:
+    new:
+      log_in: "Log in"
+      sign_up: "Sign up now!"
+      new_user: "New user?"
